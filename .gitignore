@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+*.wav
+*.srt
+*.txt
+whisper-transcriber
+
